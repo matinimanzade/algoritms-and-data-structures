@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Sort {
+public class FlattenFiguresFromTheTopToTheBottom {
     public static void main(String[] args) {
         /**
          *  12345
